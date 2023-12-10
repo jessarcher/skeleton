@@ -14,9 +14,6 @@
         "post-create-project-cmd": [
             "php scripts/post-create-project-cmd.php"
         ],
-        "post-install-cmd": [
-            "php scripts/post-install-cmd.php"
-        ],
         "post-package-install": [
             "php scripts/post-package-install.php"
         ]
