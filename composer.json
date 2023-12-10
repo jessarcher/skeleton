@@ -12,13 +12,13 @@
     },
     "scripts": {
         "post-create-project-cmd": [
-            "php post-create-project-cmd.php"
+            "php scripts/post-create-project-cmd.php"
         ],
         "post-install-cmd": [
-            "php post-install-cmd.php"
+            "php scripts/post-install-cmd.php"
         ],
         "post-package-install": [
-            "php post-package-install.php"
+            "php scripts/post-package-install.php"
         ]
     },
     "minimum-stability": "stable",
