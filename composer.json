@@ -11,9 +11,6 @@
         "laravel/prompts": "^0.1.13"
     },
     "scripts": {
-        "post-root-package-install": [
-            "php post-root-package-install.php"
-        ],
         "post-create-project-cmd": [
             "php post-create-project-cmd.php"
         ],
