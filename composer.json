@@ -9,5 +9,7 @@
     },
     "require": {
         "laravel/prompts": "^0.1.13"
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
