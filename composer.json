@@ -7,5 +7,7 @@
             "App\\": "app/"
         }
     },
-    "require": {}
+    "require": {
+        "laravel/prompts": "^0.1.13"
+    }
 }
