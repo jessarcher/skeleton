@@ -16,6 +16,9 @@
         ],
         "post-install-cmd": [
             "php post-install-cmd.php"
+        ],
+        "post-package-install": [
+            "php post-package-install.php"
         ]
     },
     "minimum-stability": "stable",
